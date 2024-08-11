@@ -1,0 +1,157 @@
+﻿body {
+    background-color: #3399ff; /* Σε περίπτωση που δεν φορτωθεί η φωτογραφία */
+    background-image: url('background.jpg'); /*τοποθεσία φωτογραφίας*/
+    background-repeat: no-repeat; /* Για να μην επαναλαμβάνεται */
+    background-attachment: fixed; /* να διατηρεί τα αρχικό aspect ratio χωρίς αλλοιώσεις */
+    background-size: cover; /* να καταλαμβάνει όλη την σελίδα */
+    margin: 30px; /* περιθώριο σελίδας */
+}
+
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 300%;
+    font-family: Monotype Corsiva;
+}
+
+h1.title {
+    text-shadow: 2px 2px 5px cyan; /* x, y, blur εφέ, και χρώμα */
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    font-size: 200%;
+    font-family: Comic Sans MS;
+}
+
+.navbar { /*εμφάνιση μπάρας μενού */
+    width: 100%;
+    background-color: #0b2735;
+    overflow: hidden;
+    border-radius: 15px;
+    height: 50px;
+}
+
+.navbar a { /*παρεμετροποίηση "κουμπιών" */
+    float: left;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    outline: none;
+    font-size: 19px;
+    font-family: Comic Sans MS;
+    height: 100%;
+    text-align: center;
+}
+
+.navbar a:hover { /* διαδραστικά κουμπιά */
+    transition-duration: 0.2s;
+    background-color: #4da6ff;
+}
+
+.navbar a.active { /* κουμπί ενεργής σελίδας */
+    background-color: #00cca3;
+}
+
+.calendarB {
+    Height: 20px;
+    Width: 20px;
+}
+
+.info {
+    width: 51%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header {
+    background-color: #3483eb;
+    text-align: center;
+    vertical-align: center;
+    padding: 15px
+}
+
+.footer {
+    background-color: #3483eb;
+    text-align: center;
+    vertical-align: center;
+    border: 0px;
+    padding: 15px
+}
+
+table {
+    background-color: #34b4eb;
+    color: white;
+    border-collapse: collapse;
+    font-size: 150%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Comic Sans MS;
+}
+
+tr, td {
+    padding: 8px;
+}
+
+.first {
+    text-align: right;
+    vertical-align: center;
+}
+
+.second {
+    text-align: left;
+    vertical-align: center;
+}
+
+.submit {
+    border-radius: 40%;
+    background-color: #34eb49;
+    font-size: 80%;
+    padding: 10px;
+    color: white;
+    font-family: Comic Sans MS;
+    cursor: pointer;
+}
+
+.cancel {
+    border-radius: 40%;
+    background-color: #f75325;
+    font-size: 80%;
+    padding: 10px;
+    color: white;
+    font-family: Comic Sans MS;
+    cursor: pointer;
+}
+
+label {
+    cursor: pointer;
+}
+
+.homeB {
+    color: white;
+    background-color: #00ace6;
+    padding: 30px 50px; /* y, x */
+    text-align: center;
+    font-size: 150%;
+    font-family: Comic Sans MS;
+    border-radius: 20px;
+}
+
+.searchB {
+    color: white;
+    background-color: #00ace6;
+    padding: 20px 35px; /* y, x */
+    text-align: center;
+    font-size: 150%;
+    font-family: Comic Sans MS;
+    border-radius: 20px;
+}
+
+.homeB:hover {
+    background-color: #00cca3;
+    color: white;
+    transition-duration: 0.2s;
+    cursor: pointer;
+}
