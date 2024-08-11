@@ -18,7 +18,10 @@ This project is a team assignment for the "Object-Oriented Application Developme
 
 ## Technologies Used
 
+- Javascript
 - C#
+- ASP.NET
+- CSS
 
 ## Applications Details
 
