@@ -5,9 +5,9 @@
 
 This project is a team assignment for the "Object-Oriented Application Development" course, offered in the 3rd semester of the 2021 academic year at the University of Piraeus, Department of Informatics. The goal is to develop three distinct applications in C#. The applications include:
 
-**Thema1:** Battleship Game
-**Thema2:** Slot Machine Simulation
-**Thema3:** COVID-19 Vaccination Web Application
+- **Thema 1:** Battleship Game
+- **Thema 2:** Slot Machine Simulation
+- **Thema 3:** COVID-19 Vaccination Web Application
 
 ## Course Information
 
@@ -25,7 +25,7 @@ This project is a team assignment for the "Object-Oriented Application Developme
 
 ## Applications Details
 
-### Thema1: Battleship Game
+### Thema 1: Battleship Game
 
 #### Description:
 
@@ -44,7 +44,7 @@ Implement the classic game "Battleship" where players take turns guessing the lo
 
 - Database for recording game statistics (who won, game duration, etc.)
 
-### Thema2: Slot Machine Simulation
+### Thema 2: Slot Machine Simulation
 
 #### Description
 
@@ -61,7 +61,7 @@ Create a graphical slot machine game with 3 columns and 4 different fruit symbol
 - Configurable settings for columns and symbols
 - Database to record coin usage and winnings
 
-### Thema3: COVID-19 Vaccination Web Application 
+### Thema 3: COVID-19 Vaccination Web Application 
 
 #### Description 
 
