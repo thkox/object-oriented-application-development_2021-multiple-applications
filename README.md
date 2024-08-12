@@ -94,14 +94,21 @@ Develop a web application for recording COVID-19 vaccinations at a vaccination c
 - **Player Turn:** Select a coordinate to attack, e.g., B-4.
 - **Computer Turn:** The computer makes a random guess.
 
+![Alt text](./images/Seafight.png)
+
 ### Slot Machine Simulation
 - **Place Bet:** Enter the amount of coins to bet.
 - **Spin:** Click the button to spin the reels and view results.
+
+![Alt text](./images/slot_machine.png)
 
 ### COVID-19 Vaccination Web Application
 - **Add Record:** Fill out the form with vaccination details.
 - **View Records:** Access the list of all vaccination records.
 - **Search:** Use search functionality to find specific records.
+
+![Alt text](./images/web_app.png)
+
 
 ## Contributors
 
