@@ -76,18 +76,6 @@ Develop a web application for recording COVID-19 vaccinations at a vaccination c
 
 - Search functionality with customizable criteria
 
-## Setup Instructions
-
-1. Battleship Game & Slot Machine Simulation:
-- Clone the project repository from GitHub.
-- Load the project in Visual Studio.
-- Compile and execute the application.
-
-2. COVID-19 Vaccination Web Application:
-- Ensure you have a web server set up (e.g., IIS, Apache).
-- Update database connection settings in the ServerConnection class
-- Deploy the application and test functionalities.
-
 ## Usage Examples
 
 ### Battleship Game
@@ -109,6 +97,17 @@ Develop a web application for recording COVID-19 vaccinations at a vaccination c
 
 ![Alt text](./images/web_app.png)
 
+## Setup Instructions
+
+1. Battleship Game & Slot Machine Simulation:
+- Clone the project repository from GitHub.
+- Load the project in Visual Studio.
+- Compile and execute the application.
+
+2. COVID-19 Vaccination Web Application:
+- Ensure you have a web server set up (e.g., IIS, Apache).
+- Update database connection settings in the ServerConnection class
+- Deploy the application and test functionalities.
 
 ## Contributors
 
