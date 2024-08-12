@@ -30,7 +30,6 @@ namespace Thema2
                     SizeOfScreen(720, 320, 700, 300);
                     break;
             }
-
         }
         //self explanatory
         private void SizeOfScreen(int xSizeOut, int ySizeOut, int xSizeIn, int ySizeIn)
