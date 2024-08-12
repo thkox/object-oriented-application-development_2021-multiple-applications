@@ -1,4 +1,3 @@
-
 # Object-Oriented Application Development (2021) - Multiple Applications
 
 ## Project Overview
