@@ -10,8 +10,8 @@ This project is a team assignment for the "Object-Oriented Application Developme
 
 ## Course Information
 
-- **Institution:** University of Piraeus
-- **Department:** Department of Informatics
+- **Institution:** [University of Piraeus](https://www.unipi.gr/en/)
+- **Department:** [Department of Informatics](https://cs.unipi.gr/en/)
 - **Course:** Object-Oriented Application Development (2021)
 - **Semester:** 3rd
 
